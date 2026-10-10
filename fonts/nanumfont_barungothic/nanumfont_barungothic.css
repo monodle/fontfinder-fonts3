@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'nanumbarungothic';
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumbarungothicultralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumbarungothic';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumbarungothiclight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumbarungothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumbarungothic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumbarungothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumbarungothicbold.woff2') format('woff2');
+}

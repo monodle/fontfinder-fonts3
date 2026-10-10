@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'nanumgothic';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumgothiclight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumgothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumgothic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumgothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumgothicbold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumgothic';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumgothicextrabold.woff2') format('woff2');
+}

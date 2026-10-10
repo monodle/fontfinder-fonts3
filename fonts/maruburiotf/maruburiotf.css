@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'maruburi';
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url('./maruburi-extralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'maruburi';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./maruburi-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'maruburi';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./maruburi-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'maruburi';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./maruburi-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'maruburi';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./maruburi-bold.woff2') format('woff2');
+}

@@ -1,0 +1,523 @@
+{
+  "nextRepo": null,
+  "fonts": [
+    {
+      "id": "kcc-ahnchangho",
+      "name": "Kcc Ahnchangho",
+      "family": "kcc-ahnchangho",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "알 수 없음",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kcc-ahnchangho/kcc-ahnchangho.css"
+    },
+    {
+      "id": "kohibaeum",
+      "name": "KOHI배움",
+      "family": "kohibaeum",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "WISEFONT",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kohi/kohibaeum.css",
+      "homepage": "http://www.tdtd.io",
+      "description": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+    },
+    {
+      "id": "kohinanum",
+      "name": "KOHI나눔",
+      "family": "kohinanum",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "WISEFONT",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kohi/kohinanum.css",
+      "homepage": "http://www.tdtd.io",
+      "description": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+    },
+    {
+      "id": "lineseedkr",
+      "name": "LINE Seed Sans KR",
+      "family": "lineseedkr",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "© LY Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/lineseedkr/lineseedkr.css",
+      "description": "© LY Corporation"
+    },
+    {
+      "id": "lineseedkr-th",
+      "name": "LINE Seed Sans KR Thin",
+      "family": "lineseedkr-th",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "© LINE 2021",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/lineseedkr/lineseedkr-th.css",
+      "description": "© LINE 2021"
+    },
+    {
+      "id": "lottewellfood",
+      "name": "가나초콜릿",
+      "family": "ghanachocolate",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "LOTTE CONFECTIONERY CO.LTD.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/lottewellfood/lottewellfood.css",
+      "homepage": "http://www.lotteconf.co.kr",
+      "description": "� 2020 by LOTTE CONFECTIONERY CO.LTD. All rights reserved."
+    },
+    {
+      "id": "maruburiotf",
+      "name": "마루 부리",
+      "family": "maruburi",
+      "category": "serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "AG Typography Institute",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        200,
+        300,
+        400,
+        600,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/maruburiotf/maruburiotf.css",
+      "homepage": "http://www.agfont.com",
+      "description": "� NAVER Corp. � NAVER Cultural Foundation Corp."
+    },
+    {
+      "id": "mbc1961gm",
+      "name": "MBC 1961굴림",
+      "family": "mbc1961gm",
+      "category": "sans-serif",
+      "version": "1.0",
+      "type": "self-hosted",
+      "author": "MBC",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/mbc_1961/mbc1961gm.css",
+      "homepage": "https://www.design210.com",
+      "description": "Copyright(c) 2020 MBC All rights reserved."
+    },
+    {
+      "id": "mbc1961m",
+      "name": "MBC 1961",
+      "family": "mbc1961m",
+      "category": "sans-serif",
+      "version": "1.0",
+      "type": "self-hosted",
+      "author": "MBC",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/mbc_1961/mbc1961m.css",
+      "homepage": "https://www.design210.com",
+      "description": "Copyright(c) 2020 MBC All rights reserved."
+    },
+    {
+      "id": "nanumbarungothic-yethangul",
+      "name": "나눔바른고딕 옛한글",
+      "family": "nanumbarungothic-yethangul",
+      "category": "sans-serif",
+      "version": "1.0.0",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbarungothic-yethangul/nanumbarungothic-yethangul.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumbrush",
+      "name": "나눔손글씨 붓",
+      "family": "nanumbrush",
+      "category": "handwriting",
+      "version": "1.100",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbrush/nanumbrush.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-barungothic",
+      "name": "나눔바른고딕",
+      "family": "nanumbarungothic",
+      "category": "sans-serif",
+      "version": "1.001",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        200,
+        300,
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barungothic/nanumfont_barungothic.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-barunpen",
+      "name": "나눔바른펜",
+      "family": "nanumbarunpen",
+      "category": "handwriting",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "YoonDesign Inc.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barunpen/nanumfont_barunpen.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-gothic",
+      "name": "나눔고딕",
+      "family": "nanumgothic",
+      "category": "sans-serif",
+      "version": "3.021",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothic/nanumfont_gothic.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "nanumfont-gothiceco",
+      "name": "나눔고딕 에코",
+      "family": "nanumgothiceco",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "NHN Corporation",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700,
+        800
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothiceco/nanumfont_gothiceco.css",
+      "homepage": "http://www.nhncorp.com",
+      "description": "NHN Corporation"
+    },
+    {
+      "id": "y-you",
+      "name": "Y 너만을 비춤체",
+      "family": "y-you",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "KT corp.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/y-you.css",
+      "homepage": "http://www.kt.com",
+      "description": "� 2020 KT corp. All rights reserved."
+    },
+    {
+      "id": "yclover",
+      "name": "Y 클로버",
+      "family": "yclover",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "㈜케이티",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/yclover.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright � 2023 KT corp. All rights reserved."
+    },
+    {
+      "id": "ycomputer",
+      "name": "Y콤퓨타체",
+      "family": "ycomputer",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "(주)케이티",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/ycomputer.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright (c) 2021 by KT corp. All rights reserved."
+    },
+    {
+      "id": "ydestreetb",
+      "name": "Y이드스트릿체",
+      "family": "ydestreetb",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "KT corp.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/ydestreetb.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright (c) 2021 by KT corp. All rights reserved."
+    },
+    {
+      "id": "ydestreetl",
+      "name": "Y이드스트릿체",
+      "family": "ydestreetl",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "KT corp.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/ydestreetl.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright (c) 2021 by KT corp. All rights reserved."
+    },
+    {
+      "id": "yonepick",
+      "name": "Y 최애",
+      "family": "yonepick",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "㈜케이티",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/yonepick.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright � 2024 KT corp. All rights reserved."
+    },
+    {
+      "id": "ypairingfont",
+      "name": "Y페어링체",
+      "family": "ypairingfont",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "Sandoll Tium Inc.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/ypairingfont.css",
+      "homepage": "http://www.sandolltium.co.kr",
+      "description": "KT Y"
+    },
+    {
+      "id": "yuniverse-b",
+      "name": "Y유니버스",
+      "family": "yuniverse-b",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "KT corp.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/yuniverse-b.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright (c) 2021 by KT corp.. All rights reserved."
+    },
+    {
+      "id": "yuniverse-l",
+      "name": "Y유니버스",
+      "family": "yuniverse-l",
+      "category": "sans-serif",
+      "version": "1.000",
+      "type": "self-hosted",
+      "author": "KT corp.",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "subsets": [
+        "korean",
+        "latin"
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/kt-y/yuniverse-l.css",
+      "homepage": "http://www.kt.com",
+      "description": "Copyright (c) 2021 by KT corp.. All rights reserved."
+    }
+  ]
+}

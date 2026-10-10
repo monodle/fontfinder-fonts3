@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'y-you';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./y-you.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yclover';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yclover-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yclover';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yclover-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ycomputer';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ycomputer.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ydestreetb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ydestreetb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ydestreetl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ydestreetl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yonepick';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yonepick-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yonepick';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yonepick-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ypairingfont';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ypairingfont-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ypairingfont';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ypairingfont-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yuniverse-b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yuniverse-b.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'yuniverse-l';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./yuniverse-l.woff2') format('woff2');
+}

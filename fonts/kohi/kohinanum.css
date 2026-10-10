@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'kohinanum';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kohinanumotf_light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kohinanum';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kohinanumotf_bold.woff2') format('woff2');
+}
