@@ -3,46 +3,269 @@
   "fonts": [
     {
       "id": "kcc-ahnchangho",
-      "name": "KCC-안창호",
       "family": "kcc-ahnchangho",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.010",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kcc-ahnchangho/kcc-ahnchangho.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kcc-ahnchangho/kcc-ahnchangho.css",
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          12,
+          5,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright © 2023 Korea Copyright Commission. All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright © 2023 Korea Copyright Commission. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "KCC-안창호"
+          },
+          {
+            "lang": "en",
+            "value": "KCC-Ahnchangho"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.010;YDI ;KCCAhnchangho"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "KCC-안창호"
+          },
+          {
+            "lang": "en",
+            "value": "KCC-Ahnchangho"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.010;Build 20231120"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "KCCAhnchangho"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "KCC- Ahnchangho is a trademark of Korea Copyright Commission."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "ko",
+            "value": "한국저작권위원회"
+          },
+          {
+            "lang": "en",
+            "value": "Korea Copyright Commission."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "en",
+            "value": "YoonDesign Inc."
+          }
+        ]
+      }
     },
     {
       "id": "kohibaeum",
-      "name": "KOHI배움OTF",
       "family": "kohibaeum",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.0",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kohi/kohibaeum.css",
-      "homepage": "http://www.tdtd.io"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          0,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.tdtd.io",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "KOHI배움OTF"
+          },
+          {
+            "lang": "en",
+            "value": "KOHIBaeumOTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "WISEFONT_KOHIBaeumOTF"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "KOHI배움OTF"
+          },
+          {
+            "lang": "en",
+            "value": "KOHIBaeumOTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.0.0; Build Release"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "KOHIBaeumOTF"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "KOHIBaeumOTF is a registered trademark of WISEFONT."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "WISEFONT"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.tdtd.io"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "KOHI배움OTF"
+          },
+          {
+            "lang": "en",
+            "value": "KOHIBaeumOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "kohinanum",
-      "name": "KOHI나눔OTF Bold",
       "family": "kohinanum",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.0",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -50,19 +273,135 @@
         300,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kohi/kohinanum.css",
-      "homepage": "http://www.tdtd.io"
+      "os2": {
+        "usWeightClass": 700,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          0,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.tdtd.io",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 WISEFONT. All rights reserved. Font designed by WISEFONT."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "KOHI나눔OTF Bold"
+          },
+          {
+            "lang": "en",
+            "value": "KOHINanumOTF Bold"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "WISEFONT_KOHINanumOTFBold"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "KOHI나눔OTF Bold"
+          },
+          {
+            "lang": "en",
+            "value": "KOHINanumOTF Bold"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.0.0; Build Release"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "KOHINanumOTFB"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "KOHINanumOTF Bold is a registered trademark of WISEFONT."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "WISEFONT"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.tdtd.io"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "KOHI나눔OTF"
+          },
+          {
+            "lang": "en",
+            "value": "KOHINanumOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Bold"
+          },
+          {
+            "lang": "en",
+            "value": "Bold"
+          }
+        ]
+      }
     },
     {
       "id": "lineseedkr",
-      "name": "LINE Seed Sans KR Bold",
       "family": "lineseedkr",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -70,53 +409,307 @@
         400,
         700
       ],
-      "subsets": [
-        "latin"
-      ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/lineseedkr/lineseedkr.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/lineseedkr/lineseedkr.css",
+      "os2": {
+        "usWeightClass": 700,
+        "usWidthClass": 5,
+        "fsType": 0,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          6,
+          3,
+          2,
+          2,
+          3,
+          2,
+          2,
+          4
+        ]
+      },
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "© LY Corporation"
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "en",
+            "value": "LINE Seed Sans KR Bold"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;DAMA;LINESeedSansKR-Bold;210623_01;"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "en",
+            "value": "LINE Seed Sans KR Bold"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "LINESeedSansKR-Bold"
+          }
+        ]
+      }
     },
     {
       "id": "lineseedkr-th",
-      "name": "LINE Seed Sans KR Thin",
       "family": "lineseedkr-th",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "latin"
-      ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/lineseedkr/lineseedkr-th.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/lineseedkr/lineseedkr-th.css",
+      "os2": {
+        "usWeightClass": 250,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          6,
+          3,
+          2,
+          2,
+          3,
+          2,
+          2,
+          4
+        ]
+      },
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "© LINE 2021"
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "en",
+            "value": "LINE Seed Sans KR Thin"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;DAMA;LINESeedSansKR-Thin;221028_01;"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "en",
+            "value": "LINE Seed Sans KR Thin"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "LINESeedSansKR-Thin"
+          }
+        ]
+      }
     },
     {
       "id": "lottewellfood",
-      "name": "가나초콜릿",
       "family": "ghanachocolate",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/lottewellfood/lottewellfood.css",
-      "homepage": "http://www.lotteconf.co.kr/"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 0,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          6,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "homepage": "http://www.lotteconf.co.kr/",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "� 2020 by LOTTE CONFECTIONERY CO.LTD. All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "© 2020 by LOTTE CONFECTIONERY CO.LTD. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "가나초콜릿"
+          },
+          {
+            "lang": "en",
+            "value": "Ghanachocolate"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;TLAB;ghanachoco"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "가나초콜릿"
+          },
+          {
+            "lang": "en",
+            "value": "Ghanachocolate"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65594"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "ghanachoco"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Ghanachocolate is a trademark of LOTTE CONFECTIONERY CO.LTD."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "LOTTE CONFECTIONERY CO.LTD."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정&타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.lotteconf.co.kr/"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "가나초콜릿"
+          },
+          {
+            "lang": "en",
+            "value": "Ghanachocolate"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "maruburiotf",
-      "name": "마루 부리OTF 중간",
       "family": "maruburi",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -127,93 +720,706 @@
         600,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/maruburiotf/maruburiotf.css",
-      "homepage": "http://www.agfont.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          6,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "homepage": "http://www.agfont.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "� NAVER Corp. � NAVER Cultural Foundation Corp."
+          },
+          {
+            "lang": "en",
+            "value": "© NAVER Corp. © NAVER Cultural Foundation Corp."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "마루 부리OTF 중간"
+          },
+          {
+            "lang": "en",
+            "value": "MaruBuriOTF Regular"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;AG  ;MaruBuriot-Regular"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "마루 부리OTF 중간"
+          },
+          {
+            "lang": "en",
+            "value": "MaruBuriOTF Regular"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;hotconv 1.0.118;makeotfexe 2.5.65603"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "MaruBuriot-Regular"
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "AG Typography Institute"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "노은유, 이노을, 구모아"
+          },
+          {
+            "lang": "en",
+            "value": "Noh Eunyou, Noheul Lee, Ku Moa"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.agfont.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "마루 부리OTF"
+          },
+          {
+            "lang": "en",
+            "value": "MaruBuriOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "중간"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "mbc1961gm",
-      "name": "MBC 1961굴림 OTF Medium",
       "family": "mbc1961gm",
-      "category": "serif",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.0",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/mbc_1961/mbc1961gm.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/mbc_1961/mbc1961gm.css",
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 261,
+        "panose": [
+          2,
+          2,
+          5,
+          3,
+          2,
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      },
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright(c) 2020 MBC All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright(c) 2020 MBC All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961굴림 OTF Medium"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961Gulim OTF Medium"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "MBC 1961Gulim OTFM"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961굴림 OTF Medium"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961Gulim OTF Medium"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.0"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "OTMBC 1961GulimM"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "MBC1961Gulim Medium FONT is a registered trademark of Design210."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "MBC"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "www.design210.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961굴림 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961Gulim OTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Medium"
+          },
+          {
+            "lang": "en",
+            "value": "Medium"
+          }
+        ]
+      }
     },
     {
       "id": "mbc1961m",
-      "name": "MBC 1961 OTF Medium",
       "family": "mbc1961m",
-      "category": "serif",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.0",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/mbc_1961/mbc1961m.css"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/mbc_1961/mbc1961m.css",
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 261,
+        "panose": [
+          2,
+          2,
+          5,
+          3,
+          2,
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      },
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright(c) 2020 MBC All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright(c) 2020 MBC All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961 OTF Medium"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961 OTF Medium"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "MBC 1961 OTFM"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961 OTF Medium"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961 OTF Medium"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.0"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "OTMBC 1961M"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "MBC1961 Medium FONT is a registered trademark of Design210."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "MBC"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "www.design210.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "MBC 1961 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "MBC 1961 OTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Medium"
+          },
+          {
+            "lang": "en",
+            "value": "Medium"
+          }
+        ]
+      }
     },
     {
       "id": "nanumbarungothic-yethangul",
-      "name": "나눔바른고딕OTF 옛한글",
       "family": "nanumbarungothic-yethangul",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.0",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         300
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumbarungothic-yethangul/nanumbarungothic-yethangul.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 0,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          5,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF 옛한글"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF YetHangul"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "NHNCorporation:NanumBarunGothicOTF-YetHangul"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF 옛한글"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF YetHangul"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.0.0.2; Build 20140917"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF-YetHangul"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF YetHangul is a registered trademark of NHN Corporation."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "윤재현; 박용락; 김동관; 이상민"
+          },
+          {
+            "lang": "en",
+            "value": "Jaehyun Yoon; Yongrak Park; Donggwan Kim; Sangmin Lee;"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF 옛한글"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF YetHangul"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "nanumbrush",
-      "name": "나눔손글씨 붓 OTF",
       "family": "nanumbrush",
-      "category": "handwriting",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.100",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumbrush/nanumbrush.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          3,
+          4,
+          6,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright � 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔손글씨 붓 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "Nanum Brush Script OTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.100;SAND;NanumBrushOTF"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔손글씨 붓 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "Nanum Brush Script OTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumBrushOTF"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumBrushOTF is a registered trademark of NHN Corporation."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "곽두열; 노영권;"
+          },
+          {
+            "lang": "en",
+            "value": "Kwak Doo-yul; Nicolas Noh;"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ]
+      }
     },
     {
       "id": "nanumfont-barungothic",
-      "name": "나눔바른고딕OTF",
       "family": "nanumbarungothic",
-      "category": "serif",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.001",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -223,19 +1429,158 @@
         400,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumfont_barungothic/nanumfont_barungothic.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 261,
+        "panose": [
+          2,
+          2,
+          6,
+          3,
+          2,
+          1,
+          1,
+          2,
+          1,
+          1
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright �� 2013 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright © 2013 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.001 2013 initial release"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF Regular is a registered trademark of NHN Corporation."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "윤재현; 박용락; 김동관;"
+          },
+          {
+            "lang": "en",
+            "value": "Jaehyun Yoon; yongrak park; donggwan kim;"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunGothicOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "nanumfont-barunpen",
-      "name": "나눔바른펜OTF",
       "family": "nanumbarunpen",
-      "category": "handwriting",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -243,19 +1588,154 @@
         400,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumfont_barunpen/nanumfont_barunpen.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 700,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          8,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright © 2014 NHN Corporation. All rights reserved. Font designed by YoonDesign Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른펜OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunpenOTF Bold"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;YDI ;NanumBarunpenOTF-Bold"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔바른펜OTF Bold"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunpenOTF Bold"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;Build 20140922"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumBarunpenOTF-Bold"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumBarunpen is a registered trademark of NHN Corporation"
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "YoonDesign Inc."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정;김우리;한도희"
+          },
+          {
+            "lang": "en",
+            "value": "Yunjung Park;Woori Kim;Dohee Han"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://dev.naver.com/projects/nanumfont/"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "나눔바른펜OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumBarunpenOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Bold"
+          },
+          {
+            "lang": "en",
+            "value": "Bold"
+          }
+        ]
+      }
     },
     {
       "id": "nanumfont-gothic",
-      "name": "나눔고딕OTF",
       "family": "nanumgothic",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "3.021",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -265,19 +1745,158 @@
         700,
         800
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumfont_gothic/nanumfont_gothic.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          13,
+          6,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright � 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "3.021;SAND;NanumGothicOTF;161020_01;"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 3.021;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF Regular is a registered trademark of NHN Corporation."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "권경석; 노영권; 최성우;"
+          },
+          {
+            "lang": "en",
+            "value": "Bruce Kwon; Nicolas Noh; Sung-woo Choi;"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "nanumfont-gothiceco",
-      "name": "나눔고딕OTF 에코",
       "family": "nanumgothiceco",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -286,38 +1905,284 @@
         700,
         800
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/nanumfont_gothiceco/nanumfont_gothiceco.css",
-      "homepage": "http://www.nhncorp.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          13,
+          6,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.nhncorp.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright � 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF 에코"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF Eco"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;SAND;NanumGothicOTFEco"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF 에코"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF Eco"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;PS 1;hotconv 1.0.69;makeotf.lib2.5.35818"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "NanumGothicOTFEco"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF Eco Regular is a registered trademark of NHN Corporation."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "권경석; 노영권; 최성우;"
+          },
+          {
+            "lang": "en",
+            "value": "Bruce Kwon; Nicolas Noh; Sung-woo Choi;"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "NHN Corporation"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "http://www.nhncorp.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "나눔고딕OTF 에코"
+          },
+          {
+            "lang": "en",
+            "value": "NanumGothicOTF Eco"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "y-you",
-      "name": "Y 너만을 비춤체OTF",
       "family": "y-you",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
-      ],
-      "subsets": [
-        "korean",
-        "latin"
       ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/y-you.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          6,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "� 2020 KT corp. All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "© 2020 KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y 너만을 비춤체OTF"
+          },
+          {
+            "lang": "en",
+            "value": "Y SpotlightOTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;KT  ;yspotlightot-regular"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y 너만을 비춤체OTF"
+          },
+          {
+            "lang": "en",
+            "value": "Y SpotlightOTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65594"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "yspotlightot-regular"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "yspotlightot-regular is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "양장점"
+          },
+          {
+            "lang": "en",
+            "value": "yang-jang"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ]
+      }
     },
     {
       "id": "yclover",
-      "name": "Y 클로버 Regular",
       "family": "yclover",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -325,96 +2190,731 @@
         400,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/yclover.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright © 2023 KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y 클로버 Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Y Clover Regular"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;Tlab;YClover-Regular"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y 클로버 Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Y Clover Regular"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20230925"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YClover-Regular"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "ko",
+            "value": "Y 클로버는 ㈜케이티의 상표입니다."
+          },
+          {
+            "lang": "en",
+            "value": "Y Clover is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "ko",
+            "value": "㈜케이티"
+          },
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "㈜티랩"
+          },
+          {
+            "lang": "en",
+            "value": "Tlab Inc."
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y 클로버"
+          },
+          {
+            "lang": "en",
+            "value": "Y Clover"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "ycomputer",
-      "name": "Y콤퓨타체",
       "family": "ycomputer",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/ycomputer.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          5,
+          0,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 by KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y콤퓨타체"
+          },
+          {
+            "lang": "en",
+            "value": "Ycomputer"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;Tlab;Ycomputer-Regular"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y콤퓨타체"
+          },
+          {
+            "lang": "en",
+            "value": "Ycomputer"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20220407"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "Ycomputer-Regular"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Ycomputer is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "ko",
+            "value": "(주)케이티"
+          },
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "㈜박윤정앤타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y콤퓨타체"
+          },
+          {
+            "lang": "en",
+            "value": "Ycomputer"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "ydestreetb",
-      "name": "Y이드스트릿체 B",
       "family": "ydestreetb",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         700
-      ],
-      "subsets": [
-        "korean",
-        "latin"
       ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/ydestreetb.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 700,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 by KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체 B"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street B"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;PTL ;YdestreetB"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체 B"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street B"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20210930"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YdestreetB"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Yde street is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정&타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "B"
+          },
+          {
+            "lang": "en",
+            "value": "B"
+          }
+        ]
+      }
     },
     {
       "id": "ydestreetl",
-      "name": "Y이드스트릿체 L",
       "family": "ydestreetl",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         300
-      ],
-      "subsets": [
-        "korean",
-        "latin"
       ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/ydestreetl.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 300,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 by KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체 L"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street L"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;PTL ;YdestreetL"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체 L"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street L"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20210930"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YdestreetL"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Yde street is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정&타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y이드스트릿체"
+          },
+          {
+            "lang": "en",
+            "value": "Yde street"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "L"
+          },
+          {
+            "lang": "en",
+            "value": "L"
+          }
+        ]
+      }
     },
     {
       "id": "yonepick",
-      "name": "Y 최애 Regular",
       "family": "yonepick",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         400,
         700
-      ],
-      "subsets": [
-        "korean",
-        "latin"
       ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/yonepick.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright © 2024 KT corp. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y 최애 Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Y Onepick Regular"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;Tlab;YOnepick-Regular"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y 최애 Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Y Onepick Regular"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20241007"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YOnepick-Regular"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "ko",
+            "value": "Y 최애는 ㈜케이티의 상표입니다."
+          },
+          {
+            "lang": "en",
+            "value": "Y Onepick is a trademark of KT corp."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "ko",
+            "value": "㈜케이티"
+          },
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "㈜티랩"
+          },
+          {
+            "lang": "en",
+            "value": "Tlab Inc."
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y 최애"
+          },
+          {
+            "lang": "en",
+            "value": "Y Onepick"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "ypairingfont",
-      "name": "Y페어링체 OTF  Rg",
       "family": "ypairingfont",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
@@ -422,51 +2922,431 @@
         400,
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/ypairingfont.css",
-      "homepage": "http://www.sandolltium.co.kr"
+      "os2": {
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": 8,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          11,
+          8,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          3
+        ]
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "ko",
+            "value": "Copyright (c) 2025 by KT Y. All rights reserved."
+          },
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2025 by KT Y. ALL RIGHTS RESERVED."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y페어링체 OTF  Rg"
+          },
+          {
+            "lang": "en",
+            "value": "YPairingFont OTF"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;SDT;KT Y;SDT"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y페어링체 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "YPairingFont OTF"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YPairingFontOTF"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "YPairingFont OTF is a trademark of KT Y."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "Sandoll Tium Inc."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "권경석, 채세현, 윤호주"
+          },
+          {
+            "lang": "en",
+            "value": "Kweon Kyoung-Seok, Chae Se-hyun, Yoon Ho-joo"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.sandolltium.co.kr"
+          }
+        ],
+        "License Description": [
+          {
+            "lang": "en",
+            "value": "KT Y"
+          }
+        ],
+        "License Info URL": [
+          {
+            "lang": "en",
+            "value": "https://www.yspotlight.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y페어링체 OTF"
+          },
+          {
+            "lang": "en",
+            "value": "YPairingFont OTF"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ]
+      }
     },
     {
       "id": "yuniverse-b",
-      "name": "Y유니버스 B",
       "family": "yuniverse-b",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         700
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/yuniverse-b.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 700,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 by KT corp.. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스 B"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe B"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;TLAB;YUniverse-B"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스 B"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe B"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20211228"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YUniverse-B"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Y Universe is a trademark of KT corp.."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정&타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "B"
+          },
+          {
+            "lang": "en",
+            "value": "B"
+          }
+        ]
+      }
     },
     {
       "id": "yuniverse-l",
-      "name": "Y유니버스 L",
       "family": "yuniverse-l",
-      "category": "sans-serif",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
       "version": "1.000",
       "type": "self-hosted",
       "license": "SIL OFL 1.1",
       "weights": [
         300
       ],
-      "subsets": [
-        "korean",
-        "latin"
-      ],
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts3@20261011/fonts/kt-y/yuniverse-l.css",
-      "homepage": "http://www.kt.com"
+      "os2": {
+        "usWeightClass": 300,
+        "usWidthClass": 5,
+        "fsType": 4,
+        "sFamilyClass": 0,
+        "panose": [
+          2,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "homepage": "http://www.kt.com",
+      "metadata": {
+        "Copyright": [
+          {
+            "lang": "en",
+            "value": "Copyright (c) 2021 by KT corp.. All rights reserved."
+          }
+        ],
+        "Font Family": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스 L"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe L"
+          }
+        ],
+        "Font Subfamily (Style)": [
+          {
+            "lang": "ko",
+            "value": "Regular"
+          },
+          {
+            "lang": "en",
+            "value": "Regular"
+          }
+        ],
+        "Unique Font Identifier": [
+          {
+            "lang": "en",
+            "value": "1.000;TLAB;YUniverse-L"
+          }
+        ],
+        "Full Font Name": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스 L"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe L"
+          }
+        ],
+        "Version": [
+          {
+            "lang": "en",
+            "value": "Version 1.000; Build 20211228"
+          }
+        ],
+        "PostScript Name": [
+          {
+            "lang": "en",
+            "value": "YUniverse-L"
+          }
+        ],
+        "Trademark": [
+          {
+            "lang": "en",
+            "value": "Y Universe is a trademark of KT corp.."
+          }
+        ],
+        "Manufacturer": [
+          {
+            "lang": "en",
+            "value": "KT corp."
+          }
+        ],
+        "Designer": [
+          {
+            "lang": "ko",
+            "value": "박윤정&타이포랩"
+          },
+          {
+            "lang": "en",
+            "value": "PYJ&typolab"
+          }
+        ],
+        "URL Vendor": [
+          {
+            "lang": "en",
+            "value": "http://www.kt.com"
+          }
+        ],
+        "Typographic Family": [
+          {
+            "lang": "ko",
+            "value": "Y유니버스"
+          },
+          {
+            "lang": "en",
+            "value": "Y Universe"
+          }
+        ],
+        "Typographic Subfamily": [
+          {
+            "lang": "ko",
+            "value": "L"
+          },
+          {
+            "lang": "en",
+            "value": "L"
+          }
+        ]
+      }
     }
   ]
 }
